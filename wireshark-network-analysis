@@ -1,0 +1,14 @@
+attack-capture.pcap
+analysis-report.md
+
+Investigation Objective
+Identify suspicious traffic in packet capture.
+
+Tools Used
+Wireshark
+
+Findings
+Detected repeated TCP SYN packets from suspicious IP.
+
+Conclusion
+Possible port scanning activity detected.
