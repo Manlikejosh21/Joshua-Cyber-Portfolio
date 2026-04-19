@@ -1,0 +1,7 @@
+user-permissions.md
+firewall-configuration.md
+ssh-hardening.md
+
+e.g (sudo chmod 700 /home/user
+     sudo ufw enable
+     sudo systemctl disable root-login)
